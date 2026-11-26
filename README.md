@@ -4,7 +4,7 @@ Data and figures behind the ARN Substack article **"America's Domestic STEM PhD 
 
 > For R1 and R2 HBCUs, domestic STEM doctoral enrollment has more than doubled since 2019 while the nation stalled.
 
-Article: ((https://jaretcriddickphd.substack.com/p/americas-domestic-stem-phd-pipeline))
+Article: (https://jaretcriddickphd.substack.com/p/americas-domestic-stem-phd-pipeline)
 
 ## Key result
 
