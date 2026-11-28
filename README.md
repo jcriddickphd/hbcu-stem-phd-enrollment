@@ -1,6 +1,6 @@
 # HBCU Domestic STEM PhD Enrollment, 2019 to 2025
 
-Data and figures behind the ARN Substack article **"America's Domestic STEM PhD Pipeline Is Shrinking. HBCUs Are the Exception."** by Jaret C. Riddick, PhD.
+Data and figures behind the ARN Substack article **"America's Domestic STEM PhD Pipeline Is Shrinking. Fourteen HBCUs Are the Exception."** by Jaret C. Riddick, PhD.
 
 > For R1 and R2 HBCUs, domestic STEM doctoral enrollment has more than doubled since 2019 while the nation stalled.
 
